@@ -1,11 +1,4 @@
-body {
-  font-family: "Avenir Next";
-}
-
-li {
-  list-style: none;
-  float: left;
-  /* Ubahlah padding atas &h1 {
+h1 {
   color: #e6855e;
   font-size:30px;
   background-color:#f3f372;
@@ -43,16 +36,4 @@ li {
   float: left; 
   font-size: 36px; 
   padding:20px 40px;
-} bawah ke 33px, dan padding kiri & kanan ke 20px */
-  
 }
-
-.header {
-  background-color: #26d0c9;
-  color: #fff;
-  height: 90px;
-}
-
-.header-logo {
-  float: left;
-  font-size: 36px;
