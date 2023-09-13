@@ -1,39 +1,33 @@
-h1 {
-  color: #e6855e;
-  font-size:30px;
-  background-color:#f3f372;
-  height:80px;
-  width:200px;
-}
-img {
-  height:500px;
-}
-p {
-  color: #ff0000;
-  font-size:20px;
-  font-family:"lucida grande"
+body {
+  font-family: "Avenir Next";
 }
 
 li {
-  color: #444;
-}
-
-.selected{
-  color:#ff0000;
+  list-style: none;
+  float: left;
+  /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kanan ke 20px */
+  
 }
 
 .header {
-    background-color: #26d0c9;
-    color: #fff; 
-    height: 90px; 
-  }
-  li {
-     list-style: none; 
-     float: left; 
-     padding:20px 40px;
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
 }
-.header-logo { 
-  float: left; 
-  font-size: 36px; 
-  padding:20px 40px;
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  /* Ubahlah padding atas & bawah ke 20px, dan padding kiri & kanan ke 40px */
+  
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
 }
