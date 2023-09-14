@@ -31,3 +31,17 @@ li {
   background-color: #ceccf3;
   height: 270px;
 }
+
+.copy-container span {
+  colour: #ff4a4a;
+}
+.contents{
+  height:500px;
+}
+
+.section-title{
+  border-bottom:2px solid #dee7ec;
+}
+.contents-item{
+  float:left:
+}
