@@ -2,11 +2,13 @@ body {
   font-family: "Avenir Next";
 }
 
-li {
+span{
+  color: #b378b3
+}
+.header-list {
   list-style: none;
-  float: left;
+  float: right;
   /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kanan ke 20px */
-  
 }
 
 .header {
@@ -18,30 +20,27 @@ li {
 .header-logo {
   float: left;
   font-size: 36px;
+  padding: 20px 10px 20px 10px;
   /* Ubahlah padding atas & bawah ke 20px, dan padding kiri & kanan ke 40px */
   
 }
 
 .main {
   background-color: #bdf7f1;
-  height: 600px;
+  height: 1250px;
 }
 
 .footer {
   background-color: #ceccf3;
-  height: 270px;
+  height: 300px; 
 }
 
-.copy-container span {
-  colour: #ff4a4a;
-}
-.contents{
-  height:500px;
+.footer-logo {
+  float: left;
+  font-size: 20px;
+  padding: 20px 10px 20px 10px;
 }
 
-.section-title{
-  border-bottom:2px solid #dee7ec;
-}
-.contents-item{
-  float:left:
+.footer-list {
+  list-style: ;
 }
